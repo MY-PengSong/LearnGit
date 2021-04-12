@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 cool
 cool again
+cool end
